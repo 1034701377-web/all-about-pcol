@@ -15,6 +15,10 @@ Please use **[Issues.](https://github.com/heyzxz/all-about-pcol/issues)**
 [See this wiki.](https://github.com/heyzxz/all-about-pcol/wiki/Compatibility)
 
 
+## Community enhancements
+
+- [PCOL Snooker Enhancements](https://github.com/1034701377-web/pcol-snooker-enhancements): a community-maintained Tampermonkey userscript that adds snooker rule improvements, local hotseat play, custom and standard practice with shot retry, and break celebrations. It targets PCOL `0.1.0.03152018`; some referee decisions require manual confirmation, and AI support for the added rules is limited. Installation instructions and limitations are documented in the linked repository.
+
 ## Known Issues
 * **Rules of Snooker needs to be improved.** Including:
 	* Require the fouling player to take a shot again.
